@@ -15,9 +15,11 @@ A diferencia de Leaflet, y otras API libres, [Google Maps no es gratuito](https:
 
 Para desarrollar aplicaciones en Google Maps, es necesario obtener una [llave para acceder al API](https://developers.google.com/maps/gmp-get-started).
 
-Puede ver un ejemplo de un mapa desarrollado con el API de Google Maps en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/).
+Puede ver un ejemplo de un mapa desarrollado con el API de Google Maps en:  
+[https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/)
 
 ## OpenLayers
 [OpenLayers](http://openlayers.org/) es otra biblioteca licenciada como software libre. Fue lanzada en el año 2005. Su API básica es muy extensa y no se apoya en el uso de complementos, como lo hace Leaflet. Esto puede simplificar la programación pero, por otra parte, también puede hacer más grandes las aplicaciones.
 
-Puede ver un ejemplo de un mapa desarrollado con OpenLayers en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-openlayers/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-openlayers/).
+Puede ver un ejemplo de un mapa desarrollado con OpenLayers en:  
+[https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-openlayers/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-openlayers/)
