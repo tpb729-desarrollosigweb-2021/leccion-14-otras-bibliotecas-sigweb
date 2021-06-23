@@ -1,4 +1,4 @@
-# Otras bibliotecas para programar SIG en la Web
+# Otras bibliotecas para programación de SIG en la Web
 Además de [Leaflet](https://leafletjs.com/), hay varias bibliotecas en el lenguaje [JavaScript](https://es.wikipedia.org/wiki/JavaScript) que facilitan la programación de mapas en la Web. Algunas listas y comparaciones pueden encontrarse en:
 
 - [mappingGIS - Las 10 mejores librerías JavaScript para crear mapas web](https://mappinggis.com/2015/03/las-mejores-apis-javascript-para-webmapping/)  
