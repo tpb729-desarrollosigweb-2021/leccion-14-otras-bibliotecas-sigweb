@@ -12,3 +12,5 @@ Además de [Leaflet](https://leafletjs.com/), hay varias bibliotecas en el lengu
 A diferencia de Leaflet, y otras API libres, [Google Maps no es gratuito](https://cloud.google.com/maps-platform/pricing), pero puede user utilizado gratuitamente hasta un límite de solicitudes al API. Por otra parte, el API está enfocada en los mapas de Google y la integración de otras fuentes de datos es difícil.
 
 Para desarrollar aplicaciones en Google Maps, es necesario obtener una [llave para acceder al API](https://developers.google.com/maps/gmp-get-started).
+
+Puede ver un ejemplo de un mapa desarrollado con el API de Google Maps en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-google/).
